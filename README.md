@@ -3,7 +3,6 @@ This is an ipynb with analysis on 170 countries' feedback on factors contributin
 
 # World Happiness Data is a survey of the state of global happiness released at a United Nations event in 2017 using data from Gallup World Poll. It reports how the new science of happiness explains personal and national variations in happiness.
 
-
 # Happiness score estimates the extent to which each of the measured factors contribute to life evaluations:
 
 # - GDP per capita
